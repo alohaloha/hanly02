@@ -1,14 +1,6 @@
 <template>
   <div>
-    <nuxt-link class="header" to="/">
-      <img
-        src="https://ja.nuxtjs.org/logos/nuxtjs-typo.svg"
-        alt="Nuxt.jsロゴ"
-        width="200"
-        class="header__img"
-      />
-    </nuxt-link>
-    <Nuxt />
+    <nuxt />
   </div>
 </template>
 
