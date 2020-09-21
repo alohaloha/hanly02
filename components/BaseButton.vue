@@ -53,7 +53,7 @@ export default {
   width: 100%;
   height: 3.75rem;
   line-height: 3.75rem;
-  border-radius: 4px;
+  border-radius: 8px;
   &:hover {
     background: rgba(0, 0, 0, 1);
   }
